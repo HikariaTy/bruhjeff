@@ -1,6 +1,6 @@
 # bruhjeff
 holycraplouis
--bullet1
+- bullet1
 
 >this is a quote
 
